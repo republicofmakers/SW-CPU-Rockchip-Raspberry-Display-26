@@ -1,1 +1,1 @@
-# SW-CPU-Rockchip-Radxa-Raspberry-26
+# SW-CPU-Rockchip-Raspberry-Display-26
